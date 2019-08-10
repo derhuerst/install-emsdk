@@ -8,8 +8,11 @@
 
 ## Usage
 
+Check the script before executing it on your computer. 😉
+
 ```shell
-# todo
+curl -fsSL -O https://raw.githubusercontent.com/derhuerst/install-emsdk/master/install-emsdk.sh
+bash install-emsdk.sh target-directory-here
 ```
 
 
