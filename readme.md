@@ -2,8 +2,8 @@
 
 **Install the [Emscripten SDK](https://emscripten.org) into a directory.**
 
-[![build status](https://api.travis-ci.org/derhuerst/install-emsdk.sh.svg?branch=master)](https://travis-ci.org/derhuerst/install-emsdk.sh)
-![ISC-licensed](https://img.shields.io/github/license/derhuerst/install-emsdk.sh.svg)
+[![build status](https://api.travis-ci.org/derhuerst/install-emsdk.svg?branch=master)](https://travis-ci.org/derhuerst/install-emsdk)
+![ISC-licensed](https://img.shields.io/github/license/derhuerst/install-emsdk.svg)
 
 
 ## Usage
@@ -18,4 +18,4 @@ bash install-emsdk.sh target-directory-here
 
 ## Contributing
 
-If you have a question or need support using `install-emsdk.sh`, please double-check your code and setup first. If you think you have found a bug or want to propose a feature, refer to [the issues page](https://github.com/derhuerst/install-emsdk.sh/issues).
+If you have a question or need support using `install-emsdk.sh`, please double-check your code and setup first. If you think you have found a bug or want to propose a feature, refer to [the issues page](https://github.com/derhuerst/install-emsdk/issues).

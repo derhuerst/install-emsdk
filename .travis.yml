@@ -1,6 +1,8 @@
 language: shell
 script:
-  - ./install-emsdk.sh
+  - ./install-emsdk.sh custom-dir
+  - source custom-dir/emsdk_env.sh
+  - emcc --help
 notifications:
   email:
     on_success: never
