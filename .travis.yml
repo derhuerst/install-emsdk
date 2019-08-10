@@ -1,0 +1,6 @@
+language: shell
+script:
+  - ./install-emsdk.sh
+notifications:
+  email:
+    on_success: never
