@@ -4,6 +4,7 @@ set -o pipefail
 
 target_dir="$(realpath ${1:-emsdk})"
 echo "installing the Emscripten SDK into $target_dir"
+set -x
 
 mkdir -p $target_dir
 cd $target_dir
